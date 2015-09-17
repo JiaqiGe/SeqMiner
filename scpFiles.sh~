@@ -1,0 +1,5 @@
+
+scp $1 root@transwarp-dm01:/usr/lib/ngmr
+scp $1 root@transwarp-dm01:/usr/lib/ngmr
+scp $1 root@transwarp-dm01:/usr/lib/ngmr
+scp $1 root@transwarp-dm01:/usr/lib/ngmr
